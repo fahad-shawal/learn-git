@@ -1,9 +1,3 @@
-#
-# Given your birthday and the current date, calculate your age in days. 
-# Account for leap days. 
-#
-# Assume that the birthday and current date are correct dates. 
-#
 
 def daysBetweenDates(year1, month1, day1, year2, month2, day2):
 	days = 0
